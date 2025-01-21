@@ -2,4 +2,8 @@ ctransformers==0.2.5
 sentence-transformers==2.2.2
 pinecone-client
 langchain==0.0.255
+<<<<<<< HEAD
 flask
+=======
+flask
+>>>>>>> e3bdbb777b25c90ab82b7d320a322a4a34c86ab7
